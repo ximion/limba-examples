@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>sdl-image1.2</id>
+  <metadata_license>MIT</metadata_license>
+
+  <name>SDL-Image</name>
+  <summary>Image loading library for Simple DirectMedia Layer 1.2</summary>
+  <description>
+    <p>
+      The Simple DirectMedia Layer (SDL) is a library that allows programs portable low level access
+      to a video framebuffer, audio output, mouse, and keyboard.
+    </p>
+    <p>
+      This is a simple library to load images of various formats as SDL surfaces.
+      It supports the following formats: BMP, GIF, JPEG, LBM, PCX, PNG, PNM, TGA, TIFF, WEBP, XCF, XPM, XV.
+    </p>
+  </description>
+  <url type="homepage">http://www.libsdl.org/</url>
+
+  <releases>
+    <release version="1.2.12" />
+  </releases>
+</component>
