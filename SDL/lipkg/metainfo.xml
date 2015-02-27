@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>libsdl1.2</id>
+  <metadata_license>MIT</metadata_license>
+
+  <name>SDL</name>
+  <summary>SDL is a library that allows programs portable low level access to a video framebuffer, audio output, mouse, and keyboard.</summary>
+  <description>
+    <p>
+      The Simple DirectMedia Layer (SDL) is a library that allows programs portable low level access
+      to a video framebuffer, audio output, mouse, and keyboard.
+    </p>
+    <p>
+      This version of SDL is compiled with X11, caca and DirectFB graphics drivers and OSS, ALSA, NAS and PulseAudio sound drivers.
+    </p>
+  </description>
+  <url type="homepage">http://www.libsdl.org/</url>
+
+  <releases>
+    <release version="1.2.15" />
+  </releases>
+</component>
