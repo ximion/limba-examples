@@ -1,0 +1,3 @@
+Format-Version: 1.0
+
+Requires: sdl-image1.2 (>= 1.2.12), libsdl1.2 (>= 1.2.15), sdl-mixer1.2 (>= 1.2.12), libphysfs (>= 2.0.3)

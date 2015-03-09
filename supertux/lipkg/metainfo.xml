@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>supertux</id>
+  <metadata_license>MIT</metadata_license>
+
+  <name>Supertux</name>
+  <summary>Classic 2D jump 'n run sidescroller with Tux.</summary>
+  <description>
+    <p>
+      SuperTux is a classic 2D jump 'n run sidescroller game in a similar style like the original SuperMario games.
+      You play the role of Tux the Penguin, who must rescue Penny from the hands of the evil Nolok.
+    </p>
+  </description>
+  <url type="homepage">http://supertux.lethargik.org/</url>
+
+  <releases>
+    <release version="0.3.4" />
+  </releases>
+</component>

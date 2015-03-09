@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>smpeg</id>
+  <metadata_license>MIT</metadata_license>
+
+  <name>smpeg</name>
+  <summary>SDL MPEG Player.</summary>
+  <description>
+    <p>
+      The Simple DirectMedia Layer (SDL) is a library that allows programs portable low level access
+      to a video framebuffer, audio output, mouse, and keyboard.
+    </p>
+    <p>
+      This package contains the SDL MPEG Player.
+    </p>
+  </description>
+  <url type="homepage">http://icculus.org/smpeg/</url>
+
+  <releases>
+    <release version="0.4.5+cvs20030824" />
+  </releases>
+</component>

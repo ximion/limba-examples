@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>sdl-mixer1.2</id>
+  <metadata_license>MIT</metadata_license>
+
+  <name>sdl-mixer1.2</name>
+  <summary>Mixer library for Simple DirectMedia Layer 1.2.</summary>
+  <description>
+    <p>
+      The Simple DirectMedia Layer (SDL) is a library that allows programs portable low level access
+      to a video framebuffer, audio output, mouse, and keyboard.
+    </p>
+    <p>
+      This package contains the mixer library for Simple DirectMedia Layer 1.2.
+    </p>
+  </description>
+  <url type="homepage">http://www.libsdl.org/</url>
+
+  <releases>
+    <release version="1.2.12" />
+  </releases>
+</component>

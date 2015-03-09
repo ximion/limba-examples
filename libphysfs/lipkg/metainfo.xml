@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+  <id>libphysfs</id>
+  <metadata_license>MIT</metadata_license>
+
+  <name>libphysfs</name>
+  <summary>Filesystem abstraction library for game programmers.</summary>
+  <description>
+    <p>
+      The PhysicsFS filesystem abstraction library provides a simple C interface to aid game programmers in utilizing game assets packaged in many different types of archive files.
+    </p>
+  </description>
+  <url type="homepage">http://www.icculus.org/physfs/</url>
+
+  <releases>
+    <release version="2.0.3" />
+  </releases>
+</component>
